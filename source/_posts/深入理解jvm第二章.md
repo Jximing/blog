@@ -1,7 +1,8 @@
 ---
 title: 深入理解jvm第二章
 date: 2019-03-28 21:21:27
-categories: 深入理解Java虚拟机
+categories: [Java,jvm]
+tags: 深入理解Java虚拟机
 ---
 
 ## 学习目的
