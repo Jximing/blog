@@ -18,10 +18,10 @@
 */
 
 var list = [
-    { date: '2013-09-01', title: '编程启蒙', contents: ['内江师范学院','因受电视剧影响，痴迷电脑程序，而选择了软件工程专业。'] },
-    { date: '2014-10-09', title: '接触Java', contents: ['学习Java程序设计、Java web开发。'] },
-    { date: '2015-09-04', title: '搭建博客', contents: ['在CSDN上建立了自己的第一个博客。'] },
-    { date: '2019-07-01', title: '搭建Hexo博客', contents: ['由于CSDN博客的商业化越来越严重，同时自己日常也喜欢在github上保存自己的学习笔记，于是转而使用hexo搭建博客。'] }
+    { date: '2012-09', title: '大学生涯', contents: ['合肥工业大学'] },
+    { date: '2016-10', title: '接触Java', contents: ['工作之余学习Java'] },
+    { date: '2017-09', title: '转行成功', contents: ['正式以Java谋生'] },
+    { date: '2019-03', title: '搭建Hexo博客', contents: ['记录自己技术成长'] }
 ];
 
 var cardsContent = '';
