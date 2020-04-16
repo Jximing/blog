@@ -7,7 +7,7 @@ layout: about
 ## 个人简介
 
 - 姓名：mingjiexian
-- 职业：技术萌新
+- 职业：java开发
 - 邮箱：1032512598@qq.com
 - 微信：mjx
 
