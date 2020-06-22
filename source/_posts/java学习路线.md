@@ -1,0 +1,60 @@
+---
+title: java学习路线
+date: 2020-06-22 17:57:14
+categories: [Java,jvm]
+tags: Java学习
+---
+- Java
+    - 基础
+      - thinking in java(完成一半)
+      - Java核心技术(已完成)
+    - 并发
+      - JAVA并发编程实践(已完成)
+      - Java并发编程的艺术
+    - JVM
+      - 深入理解Java虚拟机_JVM高级特性与最佳实践（已完成）
+    - 其他
+      - Effective Java
+      - Java性能调优指南
+      - 重构_改善既有代码的设计
+- 网络
+    - 图解HTTP
+    - 图解TCP_IP
+    - TCP IP详解
+    - 计算机网络
+- 操作系统
+    - 操作系统导论
+    - 深入理解计算机系统
+    - 鸟哥的Linux私房菜
+- 数据结构与算法
+    - 算法导论
+    - 算法
+- 数据库
+    - 数据库系统概念
+    - MySQL
+    - Redis
+- 系统设计
+    - [常用框架](#常用框架)
+        - [Spring](#springspringboot)
+        - [SpringBoot](#springboot)
+        - [MyBatis](#mybatis)
+    - [认证授权(JWT、SSO)](#认证授权)
+    - [分布式](#分布式)
+        - [Elasticsearch(分布式搜索引擎)](#elasticsearch分布式搜索引擎)
+        - [RPC](#rpc)
+        - [消息队列](#消息队列)
+        - [API 网关](#api-网关)
+        - [分布式id](#分布式id)
+        - [分布式限流](#分布式限流)
+        - [分布式接口幂等性](#分布式接口幂等性)
+        - [数据库扩展](#数据库扩展)
+        - [ZooKeeper](#zookeeper)
+    - [大型网站架构](#大型网站架构)
+        - [性能测试](#性能测试)
+        - [高并发](#高并发)
+        - [高可用](#高可用)
+    - [微服务](#微服务)
+        - [Spring Cloud](#spring-cloud)
+- 必会工具
+    - Git
+    - Docker
